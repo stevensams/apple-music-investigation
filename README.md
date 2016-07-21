@@ -32,6 +32,7 @@
 **Request: https://itunes.apple.com/search?term=Jack+Pattern+The+Junction&country=GB&media=music&limit=1**
 
 **Response**
+```json
 {
 	"resultCount": 1,
 	"results": [{
@@ -70,6 +71,7 @@
 		"isStreamable": true
 	}]
 }
+```
 
 **Track ID = 543580294**
 
@@ -80,6 +82,7 @@
 **Request: https://itunes.apple.com/lookup?id=543580294**
 
 **Response:**
+```json
 {
 	"resultCount": 1,
 	"results": [{
@@ -118,5 +121,6 @@
 		"isStreamable": true
 	}]
 }
+```
 
 **artistName = Jack Pattern and trackName = The Junction**

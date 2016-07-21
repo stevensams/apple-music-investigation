@@ -4,21 +4,34 @@
 
 ### File: itunes20160715
 
-* Action: Find Jack Pattern, The Junction in itunes20160715 and isolate Track ID*
+**Action: Find Jack Pattern, The Junction in itunes20160715 and isolate Track ID**
 
-* Entry *
+**Entry**
 
-1468573200508543580294The Junction (Kindimmer Dub Mix)0Jack PatternKollektiv Traumwelt, Vol. 3http://itunes.apple.com/album/junction-kindimmer-dub-mix/id543580119?i=543580294&uo=52012 08 172012 07 10416188℗ 2012 Budenzauber2011 Alma Soul Musichttp://a784.phobos.apple.com/us/r1000/081/Music/26/59/4d/mzi.ztaejghw.aac.p.m4a301000
+> 1468573200508
+> 543580294
+> The Junction (Kindimmer Dub Mix)
+> 0
+> Jack Pattern
+> Kollektiv Traumwelt, Vol. 3
+> http://itunes.apple.com/album/junction-kindimmer-dub-mix/id543580119?i=543580294&uo=5
+> 2012 08 17
+> 2012 07 10
+> 416188
+> ℗ 2012 Budenzauber
+> 2011 Alma Soul Music
+> http://a784.phobos.apple.com/us/r1000/081/Music/26/59/4d/mzi.ztaejghw.aac.p.m4a
+> 301000
 
-* Track ID = 543580294 *
+**Track ID = 543580294**
 
 ### iTunes Search API
 
-* Action: Confirm Jack Pattern, The Junction query through iTunes Search API matches Track ID 543580294*
+**Action: Confirm Jack Pattern, The Junction query through iTunes Search API matches Track ID 543580294**
 
-* Request: https://itunes.apple.com/search?term=Jack+Pattern+The+Junction&country=GB&media=music&limit=1 *
+**Request: https://itunes.apple.com/search?term=Jack+Pattern+The+Junction&country=GB&media=music&limit=1**
 
-* Response *
+**Response**
 {
 	"resultCount": 1,
 	"results": [{
@@ -58,15 +71,15 @@
 	}]
 }
 
-* Track ID = 543580294 *
+**Track ID = 543580294**
 
 ### iTunes Lookup API
 
-* Acton: Confirm Track ID 543580294 matches Jack Pattern, The Junction through Lookup API*
+**Acton: Confirm Track ID 543580294 matches Jack Pattern, The Junction through Lookup API**
 
-* Request: https://itunes.apple.com/lookup?id=543580294 * 
+**Request: https://itunes.apple.com/lookup?id=543580294**
 
-* Response: *
+**Response:**
 {
 	"resultCount": 1,
 	"results": [{
@@ -106,4 +119,4 @@
 	}]
 }
 
-* artistName = Jack Pattern and trackName = The Junction *
+**artistName = Jack Pattern and trackName = The Junction**

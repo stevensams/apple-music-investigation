@@ -25,7 +25,7 @@
 
 **Track ID = 543580294**
 
-### iTunes Search API
+## iTunes Search API
 
 **Action: Confirm Jack Pattern, The Junction query through iTunes Search API matches Track ID 543580294**
 
@@ -75,7 +75,7 @@
 
 **Track ID = 543580294**
 
-### iTunes Lookup API
+## iTunes Lookup API
 
 **Acton: Confirm Track ID 543580294 matches Jack Pattern, The Junction through Lookup API**
 

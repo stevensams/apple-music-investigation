@@ -124,3 +124,9 @@
 ```
 
 **artistName = Jack Pattern and trackName = The Junction**
+
+## Rate Limit
+
+From https://affiliate.itunes.apple.com/resources/documentation/itunes-enterprise-partner-feed/
+
+If you have a website or app that heavily uses the iTunes Search API and has a high volume of search queries, the Enterprise Partner Feed may be a more appropriate tool. The iTunes Search API is currently limited to approximately 20 calls per minute (subject to change).
